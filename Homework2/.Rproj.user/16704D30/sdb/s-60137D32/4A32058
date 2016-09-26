@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\nplot(DF$Rating, (DF$BoxOffice / 1000000), main = \"Rotten Tomatoes Rating vs Domestic Box Office Revenues\", xlab = \"Rotten Tomates Rating (0 - 100%)\", ylab = \"US Box Office Revenues (millions of dollars)\")\nmodel <- lm(BoxOffice ~ Rating, data = DF)\nsummary(model)",
+    "created" : 1474920434025.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2498408857",
+    "id" : "4A32058",
+    "lastKnownWriteTime" : 1474923429,
+    "last_content_update" : 1474923435942,
+    "path" : "C:/Users/ag5055/Desktop/Movies Analysis/Homework2/Regression.R",
+    "project_path" : "Regression.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

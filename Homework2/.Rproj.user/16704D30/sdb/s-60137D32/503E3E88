@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "DF <- read.csv(\"Movies.csv\", header = FALSE)\ncolnames(DF) <- c(\"Name\", \"BoxOffice\", \"Rating\", \"Year\")\n\n\n",
+    "created" : 1474919703689.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1418681646",
+    "id" : "503E3E88",
+    "lastKnownWriteTime" : 1474920430,
+    "last_content_update" : 1474920430402,
+    "path" : "C:/Users/ag5055/Desktop/Movies Analysis/Homework2/DataUpdate.R",
+    "project_path" : "DataUpdate.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
